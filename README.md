@@ -108,5 +108,5 @@ MIT © 2025
 
 ## 🙌 Connect
 
-**📧** xyz@gmail.com  
-**🔗** [LinkedIn]
+**📧** aditi.pawaskar06@gmail.com  
+**🔗** https://www.linkedin.com/in/aditi30/
