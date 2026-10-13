@@ -21,7 +21,7 @@ This is the frontend for **SMEBoost**, an AI-powered content creation platform f
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/smeboost-client.git
+git clone https://github.com/aditi-pawaskar06/SME_BOOST.git
 cd smeboost-client
 ```
 
